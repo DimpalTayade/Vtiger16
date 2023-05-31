@@ -2,6 +2,6 @@ class MyProgram1
 {
 public static void main(String[] args)
 {
- system.out.println("hello word");
+ System.out.println("hello word");
 }
 }
